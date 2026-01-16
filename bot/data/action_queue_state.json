@@ -1,0 +1,61 @@
+{
+  "abilities": {
+    "1460282505117569111": {
+      "A1": {
+        "category": "Protection",
+        "uses": "1n",
+        "owner_channel": 1460282505117569111
+      }
+    },
+    "1461434251600855124": {
+      "A1": {
+        "category": "Transport",
+        "uses": "1n",
+        "owner_channel": 1461434251600855124
+      }
+    }
+  },
+  "teams": {},
+  "pending_abilities": [
+    {
+      "channel_id": 1461434251600855124,
+      "ability": "A1",
+      "category": "Transport",
+      "team": null,
+      "timestamp": "2026-01-16T04:35:18.570105",
+      "description": "testing",
+      "status": "pending",
+      "user_id": 1424505535973031977
+    }
+  ],
+  "extra_votes": {},
+  "blocksue_members": [],
+  "blocksue_channels": [],
+  "muted_players": [],
+  "presets": {
+    "1461421025437945972": [
+      {
+        "text": "ability",
+        "timestamp": "2026-01-15T18:08:14.921100"
+      },
+      {
+        "text": "list",
+        "timestamp": "2026-01-15T18:08:23.155050"
+      }
+    ],
+    "1461434251600855124": [
+      {
+        "text": "A1 description and it saves with the category and makes the list in order",
+        "timestamp": "2026-01-16T04:41:10.702411"
+      },
+      {
+        "text": "list",
+        "timestamp": "2026-01-16T04:41:53.604923"
+      }
+    ]
+  },
+  "current_phase": "Day 1",
+  "visits": {},
+  "roleblocks": {},
+  "next_action_id": 2
+}

@@ -1,0 +1,184 @@
+{
+  "balances": {
+    "1454591243609968734_1409997121566019648": 77,
+    "1455642323282169927_1409997121566019648": 999900
+  },
+  "shop": {
+    "1454591243609968734_star": {
+      "guild_id": 1454591243609968734,
+      "name": "star",
+      "price": 123,
+      "description": "asdjaisdjas",
+      "created_by": "captain_plankgang",
+      "created_at": "2025-12-31T19:00:24.178130"
+    },
+    "1454591243609968734_shampoo": {
+      "guild_id": 1454591243609968734,
+      "name": "shampoo",
+      "price": 213123,
+      "description": "asdasjda asidaidai dadia",
+      "created_by": "captain_plankgang",
+      "created_at": "2025-12-31T19:00:34.354584"
+    },
+    "1454591243609968734_medkit": {
+      "guild_id": 1454591243609968734,
+      "name": "Medkit",
+      "price": 50,
+      "description": "Heals you once",
+      "created_by": "captain_plankgang",
+      "created_at": "2025-12-31T22:30:04.912712"
+    },
+    "0_broom": {
+      "guild_id": 0,
+      "name": "Broom",
+      "price": 800,
+      "description": "Broom any amount of messages in a channel you're in.",
+      "created_by": "system",
+      "created_at": "2026-01-04T15:35:28.450758"
+    },
+    "0_shield": {
+      "guild_id": 0,
+      "name": "Shield",
+      "price": 3000,
+      "description": "Access to the global house map updates.",
+      "created_by": "system",
+      "created_at": "2026-01-04T15:35:28.450768"
+    },
+    "0_door": {
+      "guild_id": 0,
+      "name": "Door",
+      "price": 4000,
+      "description": "Gain an extra visit for the night.",
+      "created_by": "system",
+      "created_at": "2026-01-04T15:35:28.450772"
+    },
+    "0_miscellaneous other items": {
+      "guild_id": 0,
+      "name": "Miscellaneous Other Items",
+      "price": null,
+      "description": "You can't buy this, it's just here to represent random other items you may have from roles and stuff.",
+      "created_by": "system",
+      "created_at": "2026-01-04T15:35:28.450775"
+    },
+    "0_whisper": {
+      "guild_id": 0,
+      "name": "Whisper",
+      "price": null,
+      "description": "A single-use whisper item to send a short message to another player's role channel.",
+      "created_by": "system",
+      "created_at": "2026-01-05T01:09:21.606656"
+    },
+    "0_visit": {
+      "guild_id": 0,
+      "name": "Visit",
+      "price": null,
+      "description": "Used to visit other locations.",
+      "created_by": "system",
+      "created_at": "2026-01-05T22:18:37.254110"
+    },
+    "0_forced enchantment": {
+      "guild_id": 0,
+      "name": "Forced Enchantment",
+      "price": null,
+      "description": "Enchants your visit to be forced.",
+      "created_by": "system",
+      "created_at": "2026-01-05T22:18:37.254119"
+    },
+    "0_stealth enchantment": {
+      "guild_id": 0,
+      "name": "Stealth Enchantment",
+      "price": null,
+      "description": "Enchants your visit to be stealthy.",
+      "created_by": "system",
+      "created_at": "2026-01-05T22:18:37.254123"
+    }
+  },
+  "inventories": {
+    "1454591243609968734_1409997121566019648": {
+      "star": 1
+    },
+    "1455642323282169927_1409997121566019648": {}
+  },
+  "table": {
+    "1455642323282169927_fork": {
+      "guild_id": 1455642323282169927,
+      "name": "Fork",
+      "price": 500,
+      "description": "Grab a player and force them to move to a manor. Forced non-stealth visit.",
+      "per_customer": null,
+      "stock": null,
+      "created_by": "system",
+      "created_at": "2026-01-15T16:49:02.653247"
+    },
+    "1455642323282169927_knife": {
+      "guild_id": 1455642323282169927,
+      "name": "Knife",
+      "price": 5000,
+      "description": "Physical - Kill a player. One purchase per customer, two in stock.",
+      "per_customer": 1,
+      "stock": 2,
+      "created_by": "system",
+      "created_at": "2026-01-15T16:49:02.653258"
+    },
+    "1455642323282169927_spoon": {
+      "guild_id": 1455642323282169927,
+      "name": "Spoon",
+      "price": 1000,
+      "description": "Choose three manors and rename them; move inhabitants to #cereal and control those manors.",
+      "per_customer": null,
+      "stock": 1,
+      "created_by": "system",
+      "created_at": "2026-01-15T16:49:02.653275"
+    },
+    "1455642323282169927_spork": {
+      "guild_id": 1455642323282169927,
+      "name": "Spork",
+      "price": 1500,
+      "description": "Move a manor into the Public Channels category; ownership transfers.",
+      "per_customer": null,
+      "stock": 3,
+      "created_by": "system",
+      "created_at": "2026-01-15T16:49:02.653279"
+    },
+    "1455642323282169927_teaspoon": {
+      "guild_id": 1455642323282169927,
+      "name": "Teaspoon",
+      "price": 7000,
+      "description": "Find out a player's category.",
+      "per_customer": 1,
+      "stock": null,
+      "created_by": "system",
+      "created_at": "2026-01-15T16:49:02.653285"
+    },
+    "1455642323282169927_plate": {
+      "guild_id": 1455642323282169927,
+      "name": "Plate",
+      "price": 1000,
+      "description": "Skip a phase (e.g. N2 -> N3 or D1 -> D2).",
+      "per_customer": null,
+      "stock": 1,
+      "created_by": "system",
+      "created_at": "2026-01-15T16:49:02.653289"
+    },
+    "1455642323282169927_napkin": {
+      "guild_id": 1455642323282169927,
+      "name": "Napkin",
+      "price": 900,
+      "description": "Cure a player from any blockage.",
+      "per_customer": null,
+      "stock": null,
+      "created_by": "system",
+      "created_at": "2026-01-15T16:49:02.653292"
+    },
+    "1455642323282169927_forky": {
+      "guild_id": 1455642323282169927,
+      "name": "Forky",
+      "price": 1000,
+      "description": "Roleblock a player's ability (randomly selected) for one cycle.",
+      "per_customer": 1,
+      "stock": null,
+      "created_by": "system",
+      "created_at": "2026-01-15T16:49:02.653295"
+    }
+  }
+}

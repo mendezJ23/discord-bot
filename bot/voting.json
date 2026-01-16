@@ -1,0 +1,46 @@
+{
+  "sessions": {
+    "1454591243609968734_vote-session-1": {
+      "guild_id": 1454591243609968734,
+      "name": "vote-session-1",
+      "active": true,
+      "created_at": "2026-01-03T16:37:23.332999",
+      "channel_id": 1457049220153610292,
+      "created_channel": false
+    },
+    "1454591243609968734_leader-election-1": {
+      "guild_id": 1454591243609968734,
+      "name": "leader-election-1",
+      "active": true,
+      "created_at": "2026-01-03T16:37:23.333010"
+    },
+    "1455642323282169927_vote-session-1": {
+      "guild_id": 1455642323282169927,
+      "name": "vote-session-1",
+      "active": true,
+      "created_at": "2026-01-15T18:58:42.865806",
+      "channel_id": null,
+      "created_channel": false
+    },
+    "1455642323282169927_leader-election-1": {
+      "guild_id": 1455642323282169927,
+      "name": "leader-election-1",
+      "active": true,
+      "created_at": "2026-01-15T18:58:42.865815"
+    },
+    "1455642323282169927_<#1461433993453895680>": {
+      "guild_id": 1455642323282169927,
+      "name": "<#1461433993453895680>",
+      "active": true,
+      "created_by": "named7409",
+      "created_at": "2026-01-15T22:12:11.587858",
+      "channel_id": 1461483155499515975,
+      "created_channel": true
+    }
+  },
+  "votes": {},
+  "vote_count_message_id": {
+    "1454591243609968734": "1457050230242414613",
+    "1455642323282169927": "1461434468098375863"
+  }
+}

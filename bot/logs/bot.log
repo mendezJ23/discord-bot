@@ -1,0 +1,14 @@
+2025-12-30 22:48:37 | INFO | discord_bot | Loaded cog: admin
+2025-12-30 22:48:37 | INFO | discord_bot | Loaded cog: help
+2025-12-30 22:48:37 | INFO | discord_bot | Loaded cog: logger
+2025-12-30 22:48:37 | INFO | discord_bot | Loaded cog: moderation
+2025-12-30 22:48:37 | INFO | discord_bot | Loaded cog: setup
+2025-12-30 22:48:40 | INFO | discord_bot | Logged in as Miss Minutes#2106!
+2025-12-30 22:48:44 | ERROR | discord_bot | Error in command None: Command "timeout" is not found
+NoneType: None
+2025-12-30 22:48:53 | ERROR | discord_bot | Error in command None: Command "timeout" is not found
+NoneType: None
+2025-12-30 22:49:03 | ERROR | discord_bot | Error in command None: Command "kick" is not found
+NoneType: None
+2025-12-30 22:49:16 | ERROR | discord_bot | Error in command None: Command "timeout" is not found
+NoneType: None
